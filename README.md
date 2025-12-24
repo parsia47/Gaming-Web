@@ -19,14 +19,10 @@ A modern **video game sales website** built with **HTML, CSS, and JavaScript**. 
 
 You can view the live project here: [Live Demo](https://parsia47.github.io/Gaming-Web/)  
 
-*(Note: The live link works if your repository is hosted on GitHub Pages.)*  
-
 ## Screenshots
 
-![Homepage Screenshot](path_to_your_screenshot1.png)  
-![Game Trailer Section](path_to_your_screenshot2.png)  
-
-*(Replace `path_to_your_screenshot` with the actual paths to images in your repository.)*  
+![Homepage Screenshot](img/new3.png)  
+ 
 
 ## Installation
 
